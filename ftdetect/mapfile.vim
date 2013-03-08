@@ -1,1 +1,1 @@
-au BufRead,BufNewFile *.map set filetype=mapfile
+au BufRead,BufNewFile *.map,*.sym set filetype=mapfile
